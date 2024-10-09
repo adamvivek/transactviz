@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/transactviz/static/css/main.4fe494d1.css",
+    "main.js": "/transactviz/static/js/main.71e03a3f.js",
+    "static/js/453.8ab44547.chunk.js": "/transactviz/static/js/453.8ab44547.chunk.js",
+    "index.html": "/transactviz/index.html",
+    "main.4fe494d1.css.map": "/transactviz/static/css/main.4fe494d1.css.map",
+    "main.71e03a3f.js.map": "/transactviz/static/js/main.71e03a3f.js.map",
+    "453.8ab44547.chunk.js.map": "/transactviz/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fe494d1.css",
+    "static/js/main.71e03a3f.js"
+  ]
+}
